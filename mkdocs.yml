@@ -4,4 +4,4 @@ nav:
   - Guía de Referencia: Guia_de_Referencia.md
   - Guía de Instalación: Guia_de_Instalacion.md
 theme:
-  name: 'material'
+  name: material
