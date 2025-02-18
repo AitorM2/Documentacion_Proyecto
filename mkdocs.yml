@@ -9,4 +9,4 @@ nav:
   - Guía de Referencia(pdf): Guia_de_Referencia.pdf
   - Guía de Instalación(pdf): Guia_de_Instalacion.pdf
 theme:
-  name: mkdocs
+  name: "material"
